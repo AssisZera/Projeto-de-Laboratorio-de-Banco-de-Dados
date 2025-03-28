@@ -18,6 +18,7 @@ Banco de Dados: MySQL (MySQL Workbench)
 Modelagem e Diagramas: Draw.io e Astah
 
 🎯 Resultados Esperados
+
 🚀 Aumento da produtividade | 📊 Redução de custos e erros | 🔍 Melhor controle de estoques e fornecedores | 🔐 Segurança e integridade dos dados
 
 Este sistema é um exemplo prático de automação industrial, trazendo uma solução escalável e eficiente para a gestão de recursos e processos dentro da empresa.
